@@ -1,25 +1,26 @@
 [
+
     {
         "name": "gacha1",
-        "teleporter": "GACHAPAIR1",
+        "teleporter": "GACHABOX1",
         "resource_type": "element",
         "side": "left"
     },
     {
         "name": "gacha2",
-        "teleporter": "GACHAPAIR1",
+        "teleporter": "GACHABOX1",
         "resource_type": "element",
         "side": "right"
     },
     {
         "name": "gacha3",
-        "teleporter": "GACHAPAIR2",
+        "teleporter": "GACHABOX2",
         "resource_type": "element",
         "side": "left"
     },
     {
         "name": "gacha4",
-        "teleporter": "GACHAPAIR2",
+        "teleporter": "GACHABOX2",
         "resource_type": "element",
         "side": "right"
     },
@@ -46,7 +47,234 @@
         "teleporter": "GACHAPAIR4",
         "resource_type": "element",
         "side": "right"
+    },
+    {
+        "name": "gacha9",
+        "teleporter": "GACHAPAIR5",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha10",
+        "teleporter": "GACHAPAIR5",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha11",
+        "teleporter": "GACHAPAIR6",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha12",
+        "teleporter": "GACHAPAIR6",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha13",
+        "teleporter": "GACHAPAIR7",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha14",
+        "teleporter": "GACHAPAIR7",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha15",
+        "teleporter": "GACHAPAIR8",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha16",
+        "teleporter": "GACHAPAIR8",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha17",
+        "teleporter": "GACHAPAIR9",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha18",
+        "teleporter": "GACHAPAIR9",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha19",
+        "teleporter": "GACHAPAIR10",
+        "resource_type": "element",
+        "side": "left"
+    },
+    {
+        "name": "gacha20",
+        "teleporter": "GACHAPAIR10",
+        "resource_type": "element",
+        "side": "right"
+    },
+    {
+        "name": "gacha21",
+        "teleporter": "GACHAPAIR11",
+        "resource_type": "metal",
+        "side": "left"
+    },
+    {
+        "name": "gacha22",
+        "teleporter": "GACHAPAIR11",
+        "resource_type": "metal",
+        "side": "right"
+    },
+    {
+        "name": "gacha23",
+        "teleporter": "GACHAPAIR12",
+        "resource_type": "metal",
+        "side": "left"
+    },
+    {
+        "name": "gacha24",
+        "teleporter": "GACHAPAIR12",
+        "resource_type": "metal",
+        "side": "right"
+    },
+    {
+        "name": "gacha25",
+        "teleporter": "GACHAPAIR13",
+        "resource_type": "metal",
+        "side": "left"
+    },
+    {
+        "name": "gacha26",
+        "teleporter": "GACHAPAIR13",
+        "resource_type": "metal",
+        "side": "right"
+    },
+    {
+        "name": "gacha27",
+        "teleporter": "GACHAPAIR14",
+        "resource_type": "metal",
+        "side": "left"
+    },
+    {
+        "name": "gacha28",
+        "teleporter": "GACHAPAIR14",
+        "resource_type": "metal",
+        "side": "right"
+    },
+    {
+        "name": "gacha29",
+        "teleporter": "GACHAPAIR15",
+        "resource_type": "metal",
+        "side": "left"
+    },
+    {
+        "name": "gacha30",
+        "teleporter": "GACHAPAIR15",
+        "resource_type": "metal",
+        "side": "right"
+    },
+    {
+        "name": "gacha31",
+        "teleporter": "GACHAPAIR16",
+        "resource_type": "metal",
+        "side": "left"
+    },
+    {
+        "name": "gacha32",
+        "teleporter": "GACHAPAIR16",
+        "resource_type": "metal",
+        "side": "right"
+    },
+    {
+        "name": "gacha33",
+        "teleporter": "GACHAPAIR17",
+        "resource_type": "metal",
+        "side": "left"
+    },
+    {
+        "name": "gacha34",
+        "teleporter": "GACHAPAIR17",
+        "resource_type": "metal",
+        "side": "right"
+    },
+    {
+        "name": "gacha35",
+        "teleporter": "GACHAPAIR18",
+        "resource_type": "metal",
+        "side": "left"
+    },
+    {
+        "name": "gacha36",
+        "teleporter": "GACHAPAIR18",
+        "resource_type": "metal",
+        "side": "right"
+    },
+    {
+        "name": "gacha37",
+        "teleporter": "GACHAPAIR19",
+        "resource_type": "obsidian",
+        "side": "left"
+    },
+    {
+        "name": "gacha38",
+        "teleporter": "GACHAPAIR19",
+        "resource_type": "obsidian",
+        "side": "right"
+    },
+    {
+        "name": "gacha39",
+        "teleporter": "GACHAPAIR20",
+        "resource_type": "black pearl",
+        "side": "left"
+    },
+    {
+        "name": "gacha40",
+        "teleporter": "GACHAPAIR20",
+        "resource_type": "black pearl",
+        "side": "right"
+    },
+    {
+        "name": "gacha41",
+        "teleporter": "GACHAPAIR21",
+        "resource_type": "red",
+        "side": "left"
+    },
+    {
+        "name": "gacha42",
+        "teleporter": "GACHAPAIR21",
+        "resource_type": "red",
+        "side": "right"
+    },
+    {
+        "name": "gacha43",
+        "teleporter": "GACHAPAIR22",
+        "resource_type": "metal",
+        "side": "left"
+    },
+    {
+        "name": "gacha44",
+        "teleporter": "GACHAPAIR22",
+        "resource_type": "metal",
+        "side": "right"
+    },
+    {
+        "name": "gacha45",
+        "teleporter": "GACHAPAIR23",
+        "resource_type": "sap",
+        "side": "left"
+    },
+    {
+        "name": "gacha46",
+        "teleporter": "GACHAPAIR23",
+        "resource_type": "sap",
+        "side": "right"
     }
-    
     
 ]

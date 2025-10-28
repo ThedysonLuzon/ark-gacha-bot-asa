@@ -17,7 +17,7 @@ data = {
     "implant_eat_x": 295,
     "implant_eat_y": 380,
     "radical_laydown_x": 1550,
-    "radical_laydown_y": 620,
+    "radical_laydown_y": 300,
     "first_bed_slot_x": 450,
     "first_bed_slot_y": 300,
     "close_inv_x": 2400,
