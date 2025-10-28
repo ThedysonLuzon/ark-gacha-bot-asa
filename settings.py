@@ -1,5 +1,5 @@
-screen_resolution: int = 1080 # No longer in use. Just here cause people are thoughtless.
-base_path: str = "D:/Steam/steamapps/common/" # No longer in use. Just here cause people are thoughtless.
+screen_resolution: int = 0 # No longer in use. Just here cause people are thoughtless.
+base_path: str = None # No longer in use. Just here cause people are thoughtless.
 lag_offset: float = 1.0
 iguanadon: str = "GACHAIGUANADON"
 drop_off: str = "GACHADEDI"
@@ -7,14 +7,14 @@ bed_spawn: str = "GACHARENDER"
 berry_station: str = "GACHABERRYSTATION"
 grindables: str = "GACHAGRINDABLES"
 berry_type: str = "mejoberry"
-station_yaw: float = -98.03
-render_pushout: float = 172.87
+station_yaw: float = 0.0
+render_pushout: float = 0.0
 external_berry: bool = False
-height_ele: int = 3 
+height_ele: int = 2 
 height_grind: int = 3
 command_prefix: str = "%"
 singleplayer: bool = False
-server_number: str = "5851"
+server_number: str = 0
 crafting: bool = False
 seeds_230: bool = False
 
